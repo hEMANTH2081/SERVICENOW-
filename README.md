@@ -143,8 +143,5 @@ This project is part of a ServiceNow guided learning experience. Follow the stru
 
 This project is created for educational purposes as part of ServiceNow University training.
 
----
 
-**Note**: This implementation ensures system stability and maintains the integrity of incident management processes in ServiceNow environments.
-```
 
